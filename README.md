@@ -60,7 +60,7 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [python](http://www.dropwizard.io/1.0.2/docs/) - Language
-* [Pima Indian Data CSV](https://app.pluralsight.com/library/courses/python-understanding-machine-learning/exercise-files) - Data Set used
+* [Pima Indian Data CSV](https://github.com/JerryKurata/MachineLearningWithPython/blob/master/Notebooks/data/pima-data-orig.csv) - Data Set used
 
 ## Authors
 
